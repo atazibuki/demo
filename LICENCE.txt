@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-drugi tekst
-=======
-prvi tekst
->>>>>>> Stashed changes
-=======
-prvi tekst
->>>>>>> Stashed changes
+druga proba
